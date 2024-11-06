@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.test{
+    margin-top: 40px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.main{
+    height: 150px;
+    width: 310px;
+  
+
+}
+.main img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+.four{
+    height: 150px;
+    width: 500px;
+}
+.four img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+.our{
+    height: 150px;
+    width: 1050px;
+    margin: auto;
+}
+.our img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+.name{
+    margin-top: 40px;
+    padding: 20px;
+    border-radius: 20px; 
+}
+.name h1{
+    text-align: center;
+}
+.name{
+    text-align: center;
+}
